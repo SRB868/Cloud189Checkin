@@ -8,7 +8,7 @@
 如果遇到设备ID不存在，需要二次设备校验，请先参考[这个](https://github.com/wes-lin/Cloud189Checkin/issues/165)关闭自己的设备锁。
 
 
-# **目录**
+# **目录1**
 
 - [GitHub Action 运行](#GitHubAction运行)
 - [本地运行](#本地运行)
@@ -152,6 +152,6 @@ npm start
 
 ## 交流群
 
-![](https://cdn.jsdelivr.net/gh/wes-lin/Cloud189Checkin/image/group.jpg)
+![](https://cdn.jsdelivr.net/gh/wes-lin/Cloud189Checkin/image/group.jpg)22
 
 ## [更新内容](https://github.com/wes-lin/Cloud189Checkin/wiki/更新内容)
